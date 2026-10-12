@@ -95,5 +95,17 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 
 1. **Clona el repositorio:**
    bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
-   cd tu-repositorio
+   git clone ([h(https://github.com/wgekko/modelos-analisis-tecnicos-backtesting.git))](https://github.com/wgekko/modelos-analisis-tecnicos-backtesting.git)
+   cd modelos-analisis-tecnicos-backtesting
+
+
+
+<img width="1905" height="938" alt="main" src="https://github.com/user-attachments/assets/fbd77712-2c49-4185-9977-848e6b5bd97e" />
+
+
+<img width="1898" height="939" alt="main1" src="https://github.com/user-attachments/assets/8c4e77da-f905-48ae-972f-939352f20037" />
+
+
+<img width="1885" height="935" alt="main2" src="https://github.com/user-attachments/assets/1a685d1f-267a-4217-80ed-971bd974e43e" />
+
+
